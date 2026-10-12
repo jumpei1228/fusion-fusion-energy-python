@@ -1,5 +1,7 @@
 # 核融合の放出エネルギーをPythonで計算する｜E=mc²と質量欠損
 
+[![run](https://github.com/jumpei1228/fusion-fusion-energy-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/fusion-fusion-energy-python/actions/workflows/run.yml)
+
 重水素と三重水素が融合してヘリウムになるとき生まれるエネルギーを、Pythonで計算。原子核の「質量欠損」がアインシュタインのE=mc²でエネルギーに変わるしくみを、実際の質量データで確かめます。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
